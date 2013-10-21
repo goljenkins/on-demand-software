@@ -5,6 +5,8 @@ public class DeletedEvent {
 
   public boolean isEntityFound() {
 	//return false;
+	
+	// changing for scm trigger
   return entityFound;
   }
 }
