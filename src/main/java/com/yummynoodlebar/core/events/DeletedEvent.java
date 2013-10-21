@@ -4,7 +4,7 @@ public class DeletedEvent {
   protected boolean entityFound = true;
 
   public boolean isEntityFound() {
-	return false;
-  //return entityFound;
+	//return false;
+  return entityFound;
   }
 }
