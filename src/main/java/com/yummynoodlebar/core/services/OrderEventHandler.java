@@ -33,7 +33,8 @@ public class OrderEventHandler implements OrderService {
     for (Order order : ordersRepository.findAll()) {
       generatedDetails.add(order.toOrderDetails());
     }
-    return new AllOrdersEvent(generatedDetails);
+//    return new AllOrdersEvent(generatedDetails);
+	return null;
   }
 
   @Override
