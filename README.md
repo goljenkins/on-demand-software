@@ -2,8 +2,7 @@ On Demand Software Delivery Using Jenkins [SISCD3]
 ==================
 
 
-CHANGE To RELEASE_1.0 to RELEASE_1.0
-CHANGE To RELEASE_1.0 to RELEASE_1.0
+CHANGE To MYFEATURE
 
 This is the source project for use in the Simplicity Itself course "On Demand Software Delivery using Jenkins"
 
